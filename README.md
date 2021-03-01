@@ -33,7 +33,6 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/sphilileh"><img src="https://img.shields.io/badge/-Sphilile%20Dladla-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="https://facebook.com/sphilileh"><img src="https://img.shields.io/badge/-%40sitholewb-blue?style=flat&logo=Facebook&logoColor=white"/></a>
 
 <!--
 **cdthomp1/cdthomp1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
